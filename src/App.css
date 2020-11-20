@@ -73,9 +73,3 @@ span.label.label-success, span.label.label-danger { cursor: pointer; }
   margin: 0px 0px 0px 10px;
   display: inline-block;
 }
-body {
-  background-color: red;
-}
-div {
-  background-color: blue;
-}
