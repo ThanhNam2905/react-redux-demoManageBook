@@ -78,3 +78,6 @@ span.label.label-danger {
   margin: 0px 0px 0px 10px;
   display: inline-block;
 }
+div {
+	color: orchid;
+}
